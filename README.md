@@ -32,6 +32,7 @@ How you interpret it is up to you.
 - `data/`: fake content, members and sources to build with
 - `CONTRIBUTING.md`: how to pick a task, branch and open a pull request
 - `CODE_OF_CONDUCT.md`: how we treat each other
+- `docs/`: user journey inspiration (mockups are not a spec)
 
 ## Licence
 
