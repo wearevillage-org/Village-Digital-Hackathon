@@ -15,6 +15,17 @@ Built on 10-11 October 2026 by the Village community, for the Village community.
 
 Stuck? Ask in the hackathon chat. No stupid question.
 
+### Where to build
+
+- `src/screens/ProposeScreen.tsx`: the form to propose content (**must**)
+- `src/screens/ReviewScreen.tsx`: the moderator review queue (**must**)
+- `src/screens/LibraryScreen.tsx`: a working example to learn from
+- `data/`: the synthetic content, members and sources
+
+### Run on your phone (optional)
+
+On your own machine (not in Codespaces), install the **Expo Go** app, run `bun start` and scan the QR code. Your phone and computer must be on the same Wi-Fi.
+
 ## The theme
 
 Create a content space in our app: a voice for the community, a moderation workflow that keeps it safe, and one library with three sources (**Village**, **Community**, **External**).
