@@ -29,6 +29,7 @@ How you interpret it is up to you.
 
 ## What's in the repo
 
+- `App.tsx` and `src/`: the Expo starter app (Library works; Propose and Review are yours to build)
 - `data/`: fake content, members and sources to build with
 - `CONTRIBUTING.md`: how to pick a task, branch and open a pull request
 - `CODE_OF_CONDUCT.md`: how we treat each other

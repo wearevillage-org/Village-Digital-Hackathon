@@ -1,6 +1,6 @@
 {
   // Village Digital Hackathon: open in GitHub Codespaces, nothing to install.
-  // NOTE: untested. Dry-run it in a fresh Codespace before Saturday.
+  // Installs dependencies automatically; the preview opens on port 8081.
   "name": "Village Digital Hackathon",
   "image": "mcr.microsoft.com/devcontainers/javascript-node:1-20-bookworm",
 
