@@ -1,0 +1,94 @@
+[
+  {
+    "id": "c1", "type": "article", "source": "village", "authorId": "m6",
+    "title": "Welcome to the content space",
+    "subtitle": "What you can read and share here",
+    "category": "community",
+    "body": "This is a fictional article. It explains in a few lines how members can propose content and how it is reviewed.",
+    "image": null, "imageAlt": null,
+    "status": "approved", "reviewNote": null, "reportCount": 0,
+    "submittedAt": "2026-09-01T09:00:00Z", "publishedAt": "2026-09-01T09:00:00Z"
+  },
+  {
+    "id": "c2", "type": "article", "source": "village", "authorId": "m6",
+    "title": "Five ways to meet people offline in Berlin",
+    "subtitle": "A fictional guide for newcomers",
+    "category": "city-life",
+    "body": "Sample text. Replace with your own short placeholder content when you need more items.",
+    "image": "https://picsum.photos/seed/village-c2/600/400", "imageAlt": "Abstract colourful placeholder image",
+    "status": "approved", "reviewNote": null, "reportCount": 0,
+    "submittedAt": "2026-09-05T10:00:00Z", "publishedAt": "2026-09-05T10:00:00Z"
+  },
+  {
+    "id": "c3", "type": "article", "source": "community", "authorId": "m2",
+    "title": "What a good Sunday looks like",
+    "subtitle": "A personal story, written for the prototype",
+    "category": "wellbeing",
+    "body": "This is a fictional personal experience piece. It shows an approved community article.",
+    "image": null, "imageAlt": null,
+    "status": "approved", "reviewNote": null, "reportCount": 0,
+    "submittedAt": "2026-09-10T14:00:00Z", "publishedAt": "2026-09-11T08:30:00Z"
+  },
+  {
+    "id": "c4", "type": "photo", "source": "community", "authorId": "m1",
+    "title": "Rooftop at dusk",
+    "subtitle": "Placeholder photo",
+    "category": "city-life",
+    "body": null,
+    "image": "https://picsum.photos/seed/village-c4/600/600", "imageAlt": "Placeholder photo of an abstract landscape",
+    "status": "approved", "reviewNote": null, "reportCount": 0,
+    "submittedAt": "2026-09-12T18:00:00Z", "publishedAt": "2026-09-13T09:00:00Z"
+  },
+  {
+    "id": "c5", "type": "article", "source": "community", "authorId": "m3",
+    "title": "Why I started writing again",
+    "subtitle": "Waiting for review",
+    "category": "culture",
+    "body": "This is a fictional pending article. Use it to test the moderator review screen.",
+    "image": null, "imageAlt": null,
+    "status": "pending", "reviewNote": null, "reportCount": 0,
+    "submittedAt": "2026-10-06T11:00:00Z", "publishedAt": null
+  },
+  {
+    "id": "c6", "type": "photo", "source": "community", "authorId": "m1",
+    "title": "Photo with advertising banner",
+    "subtitle": "Example of a rejected item",
+    "category": "community",
+    "body": null,
+    "image": "https://picsum.photos/seed/village-c6/600/600", "imageAlt": "Placeholder image",
+    "status": "rejected", "reviewNote": "Contains advertising. Please resubmit without the banner.", "reportCount": 0,
+    "submittedAt": "2026-10-04T16:00:00Z", "publishedAt": null
+  },
+  {
+    "id": "c7", "type": "article", "source": "community", "authorId": "m2",
+    "title": "A post that a member reported",
+    "subtitle": "Example of a flagged item",
+    "category": "social-issue",
+    "body": "Fictional text. Use this item to test the report flow: it is hidden from the library until a moderator decides.",
+    "image": null, "imageAlt": null,
+    "status": "flagged", "reviewNote": null, "reportCount": 2,
+    "submittedAt": "2026-09-20T12:00:00Z", "publishedAt": "2026-09-21T08:00:00Z"
+  },
+  {
+    "id": "c8", "type": "article", "source": "external", "authorId": null,
+    "title": "Example external article about queer culture",
+    "subtitle": "Mimics an RSS entry",
+    "category": "culture",
+    "body": "Fictional summary of an external article.",
+    "externalName": "Example Queer Magazine", "externalUrl": null,
+    "image": null, "imageAlt": null,
+    "status": "approved", "reviewNote": null, "reportCount": 0,
+    "submittedAt": "2026-09-15T07:00:00Z", "publishedAt": "2026-09-15T07:00:00Z"
+  },
+  {
+    "id": "c9", "type": "article", "source": "external", "authorId": null,
+    "title": "Example external piece on social issues",
+    "subtitle": "Mimics an RSS entry",
+    "category": "social-issue",
+    "body": "Fictional summary of another external article.",
+    "externalName": "Example Community Blog", "externalUrl": null,
+    "image": null, "imageAlt": null,
+    "status": "approved", "reviewNote": null, "reportCount": 0,
+    "submittedAt": "2026-09-18T07:00:00Z", "publishedAt": "2026-09-18T07:00:00Z"
+  }
+]

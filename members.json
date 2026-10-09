@@ -1,0 +1,8 @@
+[
+  { "id": "m1", "handle": "@juniper", "displayName": "Juniper", "role": "contributor" },
+  { "id": "m2", "handle": "@mosaic", "displayName": "Mosaic", "role": "trusted_contributor" },
+  { "id": "m3", "handle": "@nightbloom", "displayName": "Nightbloom", "role": "contributor" },
+  { "id": "m4", "handle": "@harbor", "displayName": "Harbor", "role": "moderator" },
+  { "id": "m5", "handle": "@lantern", "displayName": "Lantern", "role": "moderator" },
+  { "id": "m6", "handle": "@village-team", "displayName": "Village Team", "role": "admin" }
+]

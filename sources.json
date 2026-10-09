@@ -1,0 +1,21 @@
+[
+  {
+    "id": "village",
+    "label": "Village",
+    "tagline": "Our own voice",
+    "requiresReview": false
+  },
+  {
+    "id": "community",
+    "label": "Community",
+    "tagline": "Member voice",
+    "requiresReview": true
+  },
+  {
+    "id": "external",
+    "label": "External",
+    "tagline": "The wider world",
+    "requiresReview": false,
+    "note": "Curated list of sources. Items here are static examples that mimic RSS entries. No live feed is used."
+  }
+]

@@ -1,0 +1,32 @@
+{
+  // Village Digital Hackathon: open in GitHub Codespaces, nothing to install.
+  // NOTE: untested. Dry-run it in a fresh Codespace before Saturday.
+  "name": "Village Digital Hackathon",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:1-20-bookworm",
+
+  // Installs Bun (the app's package manager), then project dependencies if package.json exists.
+  "postCreateCommand": "npm install -g bun && if [ -f package.json ]; then bun install; fi",
+
+  // Expo / Metro web port. A browser preview opens when the dev server starts.
+  "forwardPorts": [8081],
+  "portsAttributes": {
+    "8081": {
+      "label": "App preview (bun start --web)",
+      "onAutoForward": "openBrowser"
+    }
+  },
+
+  "containerEnv": {
+    "EXPO_NO_TELEMETRY": "1"
+  },
+
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode",
+        "bradlc.vscode-tailwindcss"
+      ]
+    }
+  }
+}
