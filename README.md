@@ -49,3 +49,5 @@ How you interpret it is up to you.
 ## Licence
 
 To be confirmed by Village. Everything built here is intended to be open source.
+
+**This repo is currently inactive**
